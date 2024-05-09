@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Set;
 /**
  *
- * @author Usuario
+ * @author LuisaLucio
  */
 public class InformaciónAsignaturas {
 
